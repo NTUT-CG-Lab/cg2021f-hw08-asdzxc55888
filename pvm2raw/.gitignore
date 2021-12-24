@@ -23,7 +23,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -45,7 +44,6 @@ Thumbs.db
 *.ilk
 *.log
 [Bb]in
-[Dd]ebug*/
 *.sbr
 obj/
 [Rr]elease*/
